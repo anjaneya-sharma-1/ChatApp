@@ -1,0 +1,56 @@
+
+.container {
+    padding: 40px;
+    border-radius: 30px;
+    border-width: 4px;
+    border-color: black;
+    background-color: grey;
+    width: 600px;
+    height: 550px;
+    margin: auto;
+    overflow: auto;
+    margin-bottom: 10px;
+}
+.content{
+    color: white;
+    padding: 12px;
+    font-family: Arial;
+    background-color: black;
+    max-width: 200px;
+    border: 2px solid white;
+    border-radius: 12px;
+    clear: both;
+    margin-bottom: 4px ;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+form{
+    margin:auto;
+    display: flex;
+    width: 680px;
+
+}
+input{
+    width: 560px;
+    float: left;
+    overflow: auto;
+    height: 20px;
+    background-color: black;
+    border-radius: 12px;
+    color: white;
+    font-family: Arial;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+button{
+    width: 120px;
+    border-radius: 12px;
+    color: black;
+    background-color: aquamarine;
+    border: none;
+}
+
